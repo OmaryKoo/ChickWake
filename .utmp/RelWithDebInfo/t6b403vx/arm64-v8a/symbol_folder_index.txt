@@ -1,0 +1,1 @@
+C:\Users\ACER\Desktop\Unity6\ChickWake\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\t6b403vx\obj\arm64-v8a
